@@ -111,7 +111,6 @@ addresses are located in the world.
 **Skills Demonstrated**
 Python · APIs · Networking · Threat Intelligence
 
-*(In Progress)*
 
 ---
 
